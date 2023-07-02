@@ -16,7 +16,11 @@ To get started with the project, clone the repository and follow the instruction
 1. Install the necessary dependencies (if any).
 2. Compile the C++ code using a C++ compiler (e.g., g++).
 3. Run the compiled executable to start the blockchain simulation.
+ 
+## Screenshots
 
+![Screenshot 1](photos/first.jpg)
+![Screenshot 2](photos/second.jpg)
 ## Contributing
 
 Contributions are welcome! 
