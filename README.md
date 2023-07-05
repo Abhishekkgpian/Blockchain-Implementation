@@ -31,4 +31,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to Abhishek Thakur at abhishek1545jnv.com.
+For any questions or feedback, feel free to reach out to Abhishek Thakur at abhishek1545jnv@gmail.com.
